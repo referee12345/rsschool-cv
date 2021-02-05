@@ -1,1 +1,1 @@
-https://referee12345.github.io/rsschool-cv/cv
+https://github.com/referee12345/rsschool-cv
