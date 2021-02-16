@@ -13,7 +13,7 @@
 - Basic algorithms
 
 ### Education
-- Incomplete higher education
+- Incomplete  higher education
 
 ### English:
 - level: A-1
